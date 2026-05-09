@@ -1,0 +1,161 @@
+Refrigerator/Freezer SOP 
+
+ 
+
+VWR Scientific Products Refrigerator/Freezer in BRB 7-010 
+
+Model # R411GA14 
+
+Serial Number S31L-532343-SL 
+
+ 
+
+PURPOSE:  This procedure outlines the use and maintenance/monitoring of refrigeration/freezer unit located within the UMGCCC FCSS facilities. 
+
+ 
+
+ 2.	 RESPONSBILITIY  
+
+ It is the responsibility of the Facility Manager in conjunction with the 
+
+UMGCCC FCSS Manager to ensure that equipment is appropriately cleaned, maintained  
+
+in good working order, and available to research personnel as requested. 
+
+ 
+
+ EQUIPMENT USE  
+
+All refrigeration/freezer units should be regularly inspected and kept clean by UMGCCC FCSS staff.  
+
+ Food and beverages for human consumption will only be stored in refrigerator/freezers located in designated employee break rooms, not in UMGCC FCSS Sorting room. 
+
+All reagents, biological samples, or any substances requiring refrigeration will be placed in an appropriate container to prevent the possibility of spills, leakage, odors, or spoilage prior to storage in a refrigerator/freezer unit.  
+
+Bottles, tubes, and containers with a cap or top must be stored in an upright position and in such a way to insure their stability.  
+
+All reagents, biological samples, or any substances stored in a refrigerator will be appropriately labeled.  At a minimum label should include the contents:  Name of Product, if sample:  PI Name, and date. Additionally, containers of substances that have been removed from their original manufacturer/distributor packaging must be labeled to identify their contents and any health or safety precautions that should be considered. All items have Materials Data Safety Sheets, (MDSS), in the MDSS Book located on bookshelf in open lab. 
+
+Explosive, flammable, or corrosive substances are not to be stored in general purpose refrigerator units and should be stored in laboratory refrigerators specifically designed for that purpose.  
+
+ 
+
+EQUIPMENT MONITORING  
+
+ The UMGCCC FCSS Core Research Lead Specialist/Manager and the Facility Director are responsible for the monitoring of refrigerator/freezer located within UMGCCC FCSS and used for the storage of reagents, pharmaceuticals, biological samples, or other substances that require specific environmental temperature control and could affect the generation, measurement, or assessment of research data. 
+
+High and low temperature range will be recorded at least twice daily on the Temperature Monitoring Log located on the unit being monitored and stored in UMGCCC FCSS log. This log should contain the unit or ID number, the facility, and location of the unit, the highest and lowest temperature recorded, date, and initial of person doing the monitoring.  
+
+ At least monthly the UMGCCC FCSS Director and/or manager shall inspect, date, and initial the log to ensure the unit and its contents are being properly maintained. Monthly, these logs will be submitted to the UMGCCC FCSS Facility Research Lead Specialist/Manager to be placed in the UMGCCC FCSS Maintenance and Log Records.   
+
+Inspect condition of unit and electrical cord/plug to ensure safe operation yearly by University of Maryland Facilities Maintenance Department.  If equipment determined to be unsafe will be removed from service immediately. 
+
+Clean unit periodically by wiping down with a mild disinfectant/soap solution, twice a year, as well as defrosting twice a year (September and March). 
+
+Any additional maintenance/service should be performed by authorized personnel.  
+
+ 
+
+5.0	References 
+
+VWR Owner’s Guide General Purpose Dual Temp Refrigerator/Freezer Unit: 
+
+https://us.vwr.com/assetsvc/asset/en_US/id/11244965/contents/manual-vwr-general-purpose-dual-temp-refrigerator-freezer-20051 
+
+ 
+
+ 
+
+Written by:		Karen F. Underwood, MS, Research Lead Specialist 
+
+Adapted by:		Xiaoxuan Fan, Ph.D., Directory 
+
+Effective date:	 
+
+ 
+
+ 
+
+Approved by:	______________________________		___________________ 
+
+Xiaoxuan Fan, Ph.D., Director			Date 
+
+ 
+
+Reviewed by:	_______________________________		____________________ 
+
+Quality Assurance						Date 
+
+ 
+
+_______________________________		____________________ 
+
+Prepare of Document					Date 
+
+ 
+
+ 
+
+ 
+
+MODIFICATIONS AFTER ORIGINAL IMPLEMENTATION 
+
+ 
+
+Date: 
+
+Description of Modification: 
+
+Approved by: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EFERENCES Refer to manufacturer’s manual for additional information. 

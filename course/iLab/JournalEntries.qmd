@@ -1,0 +1,61 @@
+FlowCore Guide: Journal Entries 
+
+During Billing confirmation, no charge the appropriate appointments for the user and confirm the billing 
+
+Go to “Reporting” Tab in iLabs 
+
+Diagram
+
+Description automatically generated 
+
+Click “Load Default” on the first screen that pops up 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Alter report settings 
+
+Report Date à Should be for the past month 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Lab Filter à Check lab that has Journal Entry 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Click “Apply Filters” 
+
+Graphical user interface
+
+Description automatically generated with low confidence 
+
+Click Export à Source Data as csv/xls  
+
+ 
+
+Calculate Funds 
+
+ 
+
+Format sheet as you likeGraphical user interface, application, table, Excel
+
+Description automatically generated 
+
+Values 
+
+Usage = Quantity * Price 
+
+Cancer Center Subsidy = Usage * 0.25 
+
+Adjusted Usage = Usage – Cancer Center Subsidy 
+
+Previous Balance = Amount from last Journal Entry spreadsheet 
+
+Remaining Balance = Previous Funds – Adjusted Usage 
+
+E-mail lab worksheet and inform of current balance 

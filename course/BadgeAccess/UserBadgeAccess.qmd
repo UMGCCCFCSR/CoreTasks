@@ -1,0 +1,29 @@
+Flow Core Guide: User Badge Access 
+
+Log into the Building Access System for UMB 
+
+Go to Forms à Building Access Form 
+
+Select “Completing access request for someone else” 
+
+ 
+
+Search for user via Last Name 
+
+Graphical user interface, application, Word, website
+
+Description automatically generated 
+
+Select Correct User (Confirm via user’s UMID) 
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Fill out Form 
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Submit form  

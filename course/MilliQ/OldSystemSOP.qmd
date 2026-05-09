@@ -1,0 +1,417 @@
+ 
+
+Standard Operating Procedure  
+
+For Milli-Q Advantage A10 Water Purification System, by Millipore 
+
+ 
+
+ 
+
+In the University of Maryland Greenebaum Comprehensive Cancer Center Flow Cytometry Shared Services, UMGCCC FCSS 
+
+ 
+
+Bressler Research Building, BRB 7-022 
+
+ 
+
+ 
+
+ 
+
+ 
+
+​​Underwood, Karen​ 
+
+​​1-28-2020​ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+Table of Contents 
+
+ 
+
+ 
+
+Section										Page Number 
+
+1.0	Objective										2 
+
+2.0	Scope											2 
+
+3.0	Responsibilities									3 
+
+4.0	Definitions										3 
+
+5.0	Purpose										4 
+
+6.0	Operating Procedure								4 
+
+7.0	Maintenance										6 
+
+8.0	Safety											6 
+
+9.0	References										7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+Standard Operation Procedure for Milli-Q Advantage A10 Water Purification System Operation 
+
+ 
+
+1.0	Objective: 
+
+This SOP outlines the objective for the use of Milli-Q Water Purification System to produce purified water at the University of Maryland Comprehensive Cancer Center Flow Cytometry Shared Services, UMGCCC FCSS.  The Advantage A10, serial #F3AA35817A, located in BRB 7-022.   
+
+2.0	Scope: 
+
+This establishes an SOP for applicable operation of the Milli-Q water system from       Millipore.  This is for all lab staff, users, interns, any person who may use the facility.   
+
+3.0	Responsibility: 
+
+ 
+
+3.1       Principal Investigator:  The Principal Investigator, PI, is responsible for ensuring  
+
+personnel under their supervision are trained on the safe and proper use of the  
+
+Milli-Q Water Purification System and that correct procedures are followed.  
+
+ 
+
+3.2	Designated person:  The PI may designate a member of the lab to oversee the correct operation and maintenance of the Milli-Q Water Purification System.  This person shall: 
+
+ 
+
+Direct all users in proper usage of the Milli-Q Water Purification System and keep it in good working condition. All users are to report any defects, breakdowns or quality control issues to the facility PI and/or the core staff. 
+
+ 
+
+ 
+
+4.0	Definitions: 
+
+ 
+
+4.1	Milli-Q Water A10 Purification System:  was designed to deliver high quality ultrapure water. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+ 
+
+5.0	Purpose: 
+
+ 
+
+The purpose of the Milli-Q A10 Water Purification System, by Millipore, is to deliver high quality ultra-pure water.  The system features two separate and distinct components:  the production unit and the delivery point-of-use unit. 
+
+ 
+
+ 
+
+ Operating Procedure: 
+
+ 
+
+6.1	Diagrams: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+ 
+
+ 
+
+6.2	How to get water from the Milli-Q, Production Unit 
+
+a.	Use the Right Keypad button to move to the next screen. Use the  Left Keypad button to move to the previous screen. Use the  Up Keypad to scroll up the menu. Use the  Down Keypad to scroll down the menu. Use the  Validate Keypad button to confirm a parameter modification or selection. 
+
+ 
+
+To optimized water quality, product water can be recirculated with the system before dispensing by selecting “Recirculation” and press . Wait till product water quality is optimized and press . 
+
+ 
+
+To dispense water, press the POD (Point of Delivery) Unit Plunger down. The Milli-Q will start dispensing water. The parameter 18.2 MΩ.cm @25oC. 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+ 
+
+When you have finished dispensing water, press the POD Unit Plunger again.  
+
+ 
+
+Leave the Milli-Q in READY mode. Do not leave it in STANDBY mode unless you are going to perform maintenance on the system. 
+
+ 
+
+6.3	How to dispense an exact amount of product water, delivery point-of-use. 
+
+a.	Ensure the system is in READY mode. 
+
+b.	Select “Volume” and press . Select the desired volume of water   to be delivered and press . When the volumetric dispensing is done, the system recirculates water for 3 minutes. 
+
+7.0. 	Maintenance: 
+
+7.1	Performed by trained lab personnel in collaboration with Millipore Service Engineer, Milli-Q Support:  888-645-5478, labwaterservicesrequests@merck.group.com 
+
+7.2	Pod Pack is changed every 3 months using TISCH PES Capsule Filter:   0.22 um, 67 mm, 90 m long.  The capsule filter #6790M/Part#SF14920.   
+
+7.3	Quantum Cartridge:   replaced every 12 months 
+
+7.4	A-10 Lamp:  replaced every 12 months 
+
+7.5	Q Guard T2 Pack replaced every 12 months 
+
+7.6 	185 NM Lamp replaced every 24 months. 
+
+7.7	Every 12 months after replacing A-10 lamp, Q Guard T2 Pack, and Quantum Guard.  This is a closed system so to clean drain water in the reservoir tank by the tap by the reservoir. Open the knob of the reservoir at the bottom, which is blue in color, to drain off remaining water. 
+
+8.0	Safety Precautions 
+
+8.1	Wear lab coat and gloves to handle the equipment. 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+8.2	Avoid splashing of water and overfilling containers as the floor may become flooded with water and become slippery. The electrical circuit may be tripped if water gets into any electrical appliances nearby. 
+
+ 
+
+8.3	Use a cart to transport the filled carboy as it may be very heavy. 
+
+ 
+
+9.0. 	References:  
+
+ 
+
+7.1 	Milli-Q Reference System 
+
+https://physiology.case.edu/media/eq_manuals/eq_manual_milli-q_reference_user_manual.pdf 
+
+ 
+
+7.2	Millipore website 
+
+http://www.millipore.com/bioscience 
+
+ 
+
+Written by:		Karen F. Underwood, MS, Research Lead Specialist 
+
+Adapted by:		 
+
+Effective date:	 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UMGCCC FCSS 
+
+Dr. Xiaoxuan Fan 
+
+ 
+
+ 
+
+Approved by:		______________________________		___________________ 
+
+Xiaoxuan Fanl, Ph.D., Director			Date 
+
+ 
+
+Reviewed by:	_______________________________		____________________ 
+
+Date 
+
+_______________________________		____________________ 
+
+Date 
+
+_______________________________		____________________ 
+
+Date 
+
+ 
+
+ 
+
+MODIFICATIONS AFTER ORIGINAL IMPLEMENTATION 
+
+ 
+
+Date: 
+
+Description of Modification: 
+
+Approved by: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

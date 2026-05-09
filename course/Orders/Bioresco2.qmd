@@ -1,0 +1,125 @@
+FlowCore Guide: Ordering 
+
+Ordering via BIORESCO 
+
+Log into BIORESCO 
+
+Get to login screen: 
+
+ Text
+
+Description automatically generated 
+
+Log into FlowCore Account 
+
+Graphical user interface, text
+
+Description automatically generated 
+
+Log in under your name 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+ 
+
+Search for Items that Need to be Ordered 
+
+Can use “PPE & Lab Essentials” to quickly find: 
+
+Ethanol 
+
+Bleach 
+
+Using Search Box 
+
+Part or Catalog Number 
+
+Keyword 
+
+Adjust Quantity and Place Item in Cart 
+
+Note: Pay attention to the “Size” column as that tells you if you are buying a case, a box etc. 
+
+“Buy” 
+
+Stock directly in BIORESCO 
+
+ 
+
+Change quantity  
+
+Click “Buy” to add to cart 
+
+“Punchout” 
+
+Will take you to the vendor’s website 
+
+ 
+
+Fill out the quantities and add to cart on vendor website 
+
+A screenshot of a computer
+
+Description automatically generated 
+
+View the cart and “Checkout” to be taken back to BIORESCO page. 
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Confirm and Place Order 
+
+Verify that the information for the order is correct 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Specify if you want the order delivered or picked up 
+
+A picture containing graphical user interface
+
+Description automatically generated 
+
+Place Order 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Ordering via External Ordering Form 
+
+Only use this if the part number, or something similar, is not available through BIORESCO 
+
+Fill out the Cancer Center’s ordering form with the appropriate information 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Important Fields 
+
+Date 
+
+Vendor Name and Phone 
+
+Requested By 
+
+Website: Make sure this link goes directly to the product being ordered 
+
+Quantity  
+
+Item Description 
+
+Product Name (as shown on website) 
+
+Part or Catalog Number 
+
+Unit Price 
+
+Total Amount 
+
+E-Mail completed form to Lisa Beil so she can place the order 

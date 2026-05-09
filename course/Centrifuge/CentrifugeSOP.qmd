@@ -1,0 +1,579 @@
+ 
+
+ 
+
+Standard Operation Procedure for Sorvall ST 8/8R Centrifuge 
+
+ 
+
+ Objective: 
+
+The objective of this SOP is to give a guideline in the safe operation and maintenance of the Sorvall ST 8/8R Centrifuge, in Bressler Research Building (BRB), 7-010, located in University of Maryland Greenebaum Comprehensive Cancer Center Flow Cytometer Shared Services, (UMGCCC FCSS).  Dr. Xiaoxuan Fan is the PI and Karen F. Underwood Lab Manager/Research Lead Specialist of the facility. 
+
+Definitions: 
+
+Centrifuges are widely used in laboratories/scientific faculties and they spin at high speeds to separate substances with different particle sizes or densities. 
+
+RCF stands for relative centrifugal force 
+
+RPM stands for revolutions per minute 
+
+ACC stands for acceleration curve 
+
+DEC stands for deceleration curve. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.1 
+
+ C:\Users\kunderwood\AppData\Local\Microsoft\Windows\INetCacheContent.Word\keys.png 
+
+ 
+
+ 
+
+ Scope: 
+
+This SOP is applicable for the procedure of operation and maintenance of the Sorvall ST8/8R Centrifuge from Thermo Fischer, located in the UMGCCC FCSS Facility. 
+
+ 
+
+ Responsibilities: 
+
+ 
+
+4.1	Principal Investigator:  The Principal Investigator, PI, is responsible for ensuring personnel under their supervision are trained on the safe and proper use of the centrifuge and that correct procedure is followed. 
+
+ 
+
+ 
+
+ 
+
+4.2	Designated person:  The PI may designate a member of the lab to oversee the correct operation and maintenance of the centrifuge. This person shall: 
+
+ 
+
+Coordinate yearly centrifuge preventive maintenance, (PM), with Thermo Fisher.            The most recent PM’s must be posted on the front of the centrifuge. 
+
+Make any necessary arrangements for repairs of the centrifuge. 
+
+Periodically inspect the centrifuge to ensure its operational performance. 
+
+The designee is responsible for training personnel in the procedure and reviewing associated documentation for use of a centrifuge. 
+
+Report to PI unsafe practices by centrifuge users. 
+
+ 
+
+Purpose: 
+
+The purpose of this SOP is to provide guidance for the safe operation and maintenance of the Thermo Fischer Sorvall-ST-8-8R-Centrifuge and rotors, Serial #42565826.  Location in BRB 7-010 UMGCCC FCSS Lab.    
+
+ 
+
+Operation: 
+
+ 
+
+6.1	Precautions 
+
+ 
+
+Do not use the centrifuge near flammable liquids or vapors; do not run such materials in the instrument.  Also, use a centrifuge for intended purposes only.  
+
+Do not lean on the instrument or place items on it, especially when it is in operation.  Do not move the centrifuge while it is running., also checkCheck with core staff as the instrument should not be moved. 
+
+Make sure the rotor is balanced and properly loaded before starting the run. Never overload the rotor.  
+
+Use only rotors and accessories for this centrifuge which have been approved by Thermo Fisher Scientific. Exceptions to this rule are commercially available glass or plastic centrifuge tubes, provided they have been approved for the speed or the RCF value of the rotor. 
+
+Do not use rotors that show signs of corrosion and/or cracks. Always use the rotor with the rotor lid.  
+
+Never start the centrifuge with the lid open. Do not open the lid until the rotor has come to a complete stop. 
+
+Do not use the centrifuge if parts of its cover panels are damaged or missing.  
+
+Do not touch the electronic or mechanical components of the centrifuge. Do not alter the electronic or mechanical components of the centrifuge. 
+
+If a spill occurs, immediately decontaminate surfaces of the centrifuge with Cavicide; allow a 3-minute contact time , with the cleanser before wiping it down. 
+
+Staff to check RCF and is based on the length of the rotor arm versus RPM. 
+
+Centrifuge must be located on a supporting structure that is stable and free of resonance, with a minimum safety zone of 30 cm around it on all sides.  
+
+Do not centrifuge toxic or radioactive materials or any pathogenic micro-organisms without suitable safety precautions.  
+
+When centrifuging microbiological samples from the Risk Group II (per the "Laboratory Bio-safety Manual" of the World Health Organization WHO), aerosol-tight biological seals must be used. 
+
+UV rays reduce the stability of plastics. Do not subject the centrifuge, rotors, and plastic accessories to direct sunlight. 
+
+ 
+
+ In case of electronic failure during a centrifugation procedure, the material may be retrieved by pulling the two emergency release cables at the same timesimultaneously atin the rear of  
+
+the instrument. (Review section page 39 of the Sorvall ST8 Manuel, on Mechanical Emergency Lid Release).  This should be done by UMGCCC FCSS Core Staff. 
+
+      p.  Note no readathon material should be used in this centrifuge.   
+
+q.  IF A HAZARDOUS SITUATION OCCURS, TURN OFF THE  
+
+POWER SUPPLY TO THE CENTRIFUGE, LEAVE THE  
+
+AREA IMMEDIATELY, AND NOTIFY UMGCCC FCSS  
+
+STAFF. 
+
+ 
+
+Information for Usage 
+
+ 
+
+The centrifuge is to be used for separating materials of different density or particle size suspended in a liquid.  
+
+Maximum sample density at maximum speed: 1,2 g cm3 
+
+Science Safety Symbols: Laboratory Safety Symbols & Meanings Precautions for ST8/8R:  The symbol on the left refers to general hazards.  “ATTENTION” means that material damage could occur. “WARNING” means that injuries or material damage or contamination could occur. 
+
+Science Safety Symbols: Laboratory Safety Symbols & Meanings The symbol on the left refers to biological hazards.  Please contact a core staff member of the UMGCCC FCSS regarding biological hazards before using a centrifuge.  (This should also be covered under training.) 
+
+ 
+
+Please do not touch the main power switch, the centrifuge was set up by Thermo Fischer and is maintained by UMGCCC FCSS staff and Thermo Fischer Contract Maintenance Contract Persons, (who are the only designated people to touch the switch). 
+
+ 
+
+Text Box 2, TextboxThermo Scientific Sorvall ST16/16R manual 
+
+ 
+
+f.	Diagram and map of functions provided by Thermo Fischer for the centrifuge usage. 
+
+See the source image 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Map Key: 
+
+Speed RCF Value 
+
+Running Time 
+
+Temperature 
+
+Acquisitions Profile 
+
+Change the display mode, used to change the ACC/DEC. 
+
+PULSE-  Key, press this key the centrifuge starts immediately and accelerates up to the end speed.  Release ofs the key initiates a stopping processing.    
+
+Open- Key, open the lid key, only after centrifuge stops 
+
+STOP- Key, end run manually . 
+
+START- Key, normal start for the centrifuge.  
+
+SNOW- Key, used by core staff only.  This key is for prewarming or precoding the centrifuge. 
+
+Change value keys, this is used to change the speed, time, or temperature. 
+
+Change the display mode, move the arrows to modify the display value you need. 
+
+Program selection kKeys. 
+
+ 
+
+6.3	Usage 
+
+a.  Switch on Centrifuge, core staff: 
+
+1.   Core staff will have turn on the power switch on the back of  
+
+the device. Users will turn on the on/off switch, located on the right side of the centrifuge.  The device performs a self-check of its software. When the centrifuge lid is closed the following display shows: 
+
+ 
+
+ 		0 0:00	-10	9	9	3608 
+
+2.  The speed and time displays read 0. The temperature indicator  
+
+displays the current temperature inside the rotor chamber. The preset acceleration and braking curves and the selected bucket are also displayed.   When the centrifuge lid is open the following display shows: 
+
+ 		 
+
+15000 1:30-10	9	9	3608 
+
+3.  The speed and time displays show the preset values. The  
+
+temperature indicator displays the current temperature inside the rotor chamber. The preset acceleration and braking curves and the selected bucket are also displayed. 
+
+ 
+
+b.  Press the lid open key  
+
+c.  Place samples in using the proper rooter , (review section 7./0), and be 
+
+     sure,  the samples are properly balanced. 
+
+d. Close the lid by pressing tightly in the middle, the lid will lock  
+
+     automatically.  Once locked means the lid is closed and secured.      
+
+ 
+
+e.  Preselect the temperature , (temperature range is -100C to +400C).  The     
+
+      the temperature will be on the display set.  
+
+ 
+
+ 
+
+Set temp		-100C 
+
+ 
+
+Keep pressing the temperature change value keys until you hit the desired temperature showns on the display. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ For setting the pre-temp value for the centrifuge proceed as follows: Press the temperature change key to open the temperature selection menu. The display shows the message "Set Pre-Temp"  
+
+ 
+
+Set Pre-Temp -100C 
+
+ 
+
+Enter the desired value by pressing the temperature change key , until the desired value shows. 
+
+ 
+
+ Close the centrifuge lid, and the display will show the current    
+
+  the temperature inside the rotor chamber.  
+
+ 
+
+Press Start 	240C	Prewarm 
+
+ 
+
+ 
+
+Press the "START" key.  The rotor chamber is cooled down or     
+
+heated up to the preset temperature. 
+
+ 
+
+15000			40C	PreCool 
+
+ 
+
+Press the "STOP" key.  The display shows the current     
+
+temperature inside the rotor chamber. 
+
+ 
+
+15000		PT	40C	Ready 
+
+ 
+
+f   Once the correct rotors and buckets have been selected (see section 7),    
+
+and settings are configured to  press the start key.  The centrifuge will go      up to the speed and temperature selected, and the selections will show on the display board. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+g.  Unless the "continuous operation" was selected, the centrifuge will run  
+
+until the set time has ended.  Wait until the centrifuge stops (which it    will automatically), speed is at zero, and the message "END" appears on the display.  Then press the open lid key, and remove the samples from      
+
+     the centrifuge. 
+
+ 
+
+1.	 If “continuous operation” was selected the user must stop the centrifuge manually. Press the STOP key on the control panel. The centrifuge will be decelerated at the designated rate. The message "END" will show on the display board, then press the OPEN key, the lid will open and you can remove samples from the centrifuge. 
+
+ 
+
+Short-term centrifuge or “PULSING”  
+
+ 
+
+a.  For the PULSE function use the PULSE kKey.  Hold down the PULSE key,  
+
+     spinning will start and continue until the key is let go.  The centrifuge accelerates  
+
+     and breaks at maximum power. Any RPM or RCF entered beforehand is  
+
+     overridden.   
+
+b.  During the acceleration process in the "PULSE" mode, the time is counted      
+
+     forwards in seconds.  The reading stays displayed until the centrifuge lid is open. 
+
+ 
+
+6.5 Centrifuge Programming (core personnel only)  
+
+Please not programing of the centrifuge can only be done by the core personnel.  The facility will have certain programs in the centrifuge, please check with the core personnel to see if one of the programs will work for your needs.	 
+
+ 
+
+Rooters and Bucket Installation 
+
+ 
+
+The core facility has the approved rooters and buckets for the ST8/8R.  Only these rooters and buckets can be used.  Provided you need help with installation please contact core personnel.   
+
+ 
+
+Rooter Instillation 
+
+ 
+
+a. 	The rotors are equipped with an AutoLockTM locking system. This system is used to automatically lock the rotor to the centrifuge spindle. The rotor does not have to be bolted onto the centrifuge spindle.  
+
+Thermo Scientific TX-750 Swing Bucket Rotor, Cat. # 75003607 
+
+ 
+
+Text Box 2, Textbox 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Text Box 2, Textbox 
+
+ 
+
+ 
+
+b.	Open the lid of the centrifuge and if necessary remove any dust, foreign objects, or residue from the chamber, or have core personnel aid in this part.chamber, if present. Flow core staff can assist as requested.  AutoLockTM and O-ring must be clean and undamaged.  
+
+c.	Check AutoLockTM and O-ring for damage. Both the AutoLockTM and O-ring need to be damage free for use must be clean and undamaged. 
+
+dc.	Hold the rotor over the shaft and let it slide slowly down the centrifuge spindle. The rotor clicks automatically into place.  
+
+ed.	 Check if the rotor is properly  installed, by lifting it slightly on the handle. If the rotor can be pulled up, then it must be reclaimed to the centrifuge spindle. 
+
+fe. 	Place the rotor lid onto the rotor. 
+
+gf. 	Close the centrifuge lid. 
+
+ 
+
+ 
+
+Rotor Safety 
+
+ 
+
+a.  	Do not force the rotor onto the centrifuge spindle. If the rotor is very  light , then it may be necessary to press it onto the centrifuge spindle with a small amount of pressure.  However, if the rotor cannot be properly locked in place, get core personnel do not proceeddo not proceed, contact flow staff for assistance.  The AutoLockTM may be defective but core personnel needs to verify if there is rotor damage or what is causing the problem.the issue.   
+
+b.	Check that the rotor is properly locked on the centrifuge spindle before each  
+
+use by pulling it.  Be sure to check all sealings before starting any aerosol-tight applications.  
+
+ 
+
+7.3	Removing the Rotor 
+
+ 
+
+a.	This can only be done by core personnel:  to remove the rotor, proceed as follows: open the centrifuge lid, then grab the rotor handle with both hands and press against the green AutoLockTM key. At the same time, pull the rotor directly upwards with both hands and remove it from the motor shaft. Make sure not to jam the rotor while doing this. 
+
+ 
+
+ 
+
+ 
+
+C:\Users\kunderwood\AppData\Local\Microsoft\Windows\INetCacheContent.Word\Screenshot (84).png 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.4	Bucket Installation 
+
+ 
+
+a.	Bucket selection is by swing-out rotors.  The bucket code corresponds to the last four digits of the bucket catalog number.  Press the "BUCKET" key and the display shows the bucket key code.  Press the BUCKET key rapidly until the proper bucket code is displayed. 
+
+b. 	ST8/8R can be used with Eppendorf tubes, 5 mL tubes, 15 mL tubes, 50 mL tubes, and plates.  
+
+ 
+
+ 
+
+Sorvall™ ST 8 Small Benchtop Centrifuge 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8.0	Cleaning and Maintenance performed by UMGCCC FCSS Staff as needed. 
+
+ 
+
+8.1	Cleaning/Disinfecting Centrifuge 
+
+ 
+
+a.	Use warm water with Cavicide or Cavicide Wipes.  Clean and rinse the cavities of the centrifuge thoroughly, by using a soft brush.  Place rotors on a plastic grate with their cavities pointing down to dry.  Dry aluminum parts  
+
+ 
+
+with a soft cloth.  Once parts are dry, treat the aluminum parts and cavities with corrosion protection oil (Part 70000 9284) , to preserve them.  Store the aluminum parts at room temperature with cavities pointing down. 
+
+ 
+
+b.	The accessories should be cleaned as follows: 
+
+1.  Open the centrifuge and make sure the centrifuge is turned off 
+
+2.  Pull out the power supply plug. 
+
+3.  Grasp the rotor with both hands and lift it vertically off the  
+
+     centrifuge spindle.	 
+
+4.  Remove all tubes and adaptors. 
+
+5.  Use Cavicide and warm water or Cavicide Wipes and wipe 
+
+down all accessories.  Treat all aluminum parts with corrosion   protection oil (part 70000 9824).  Also, treat the swing-out rotor with bold grease (part 75003786). 
+
+6.  Note if there is ice in the rotor chamber, let the ice melt and  
+
+     drain off before proceeding with the above cleaning method. 
+
+c.	Autoclaving  
+
+Before autoclaving, clean rotor and accessories and described as in the cleaning section.    Rotors and adaptors must be placed on a flat surface and autoclaved at 1210C on the gravity cycle at afor a maximum of 20 minutes. 
+
+ 
+
+8.2 	Maintenance 
+
+ 
+
+UMGCCC FCSS Staff to arrange for preventive maintenance by Thermo Fisher every 6 months. 
+
+ 
+
+ 
+
+9.0	Reference 
+
+ 
+
+Thermo Fisher Scientific Sorvall ST 8 Sorvall ST 8R Instruction Manuel 50143327-b • 05 / 2014 (Please note all pictures are from the reference Manuel).   
+
+ 
+
+ 		Laboratory Biosafety Manual - Third Edition World Health Organization 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

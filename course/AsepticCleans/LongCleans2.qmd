@@ -1,0 +1,205 @@
+UMGCCC Flow Core Analyzer Long Cleans 
+
+Auroras 
+
+General Notes 
+
+For all the Auora’s 
+
+The cleaning tubing assembly is stored in the drawer under the Aurora UV 
+
+Run once a month or as needed 
+
+Cleaning Process 
+
+Bleach 
+
+Prep Bleach Solution 
+
+5% Bleach 
+
+3 L is more than enough for the Long Clean 
+
+Run the automated Long Clean program in SpectroFlo 
+
+ Follow all steps with bleach in the tank and in the sample tube 
+
+Do NOT replace filter in last step of the cleaning process 
+
+Tank Rinse 
+
+Dump remaining bleach solution in the tank 
+
+Rinse the tank with Milli-Q water > 3 times 
+
+Make sure to rinse the tubing in addition to the tank 
+
+Do not let tubing touch anything other than the tank or a clean kimwipe 
+
+Water 
+
+Fill tank with Milli-Q water 
+
+Run automated Long Clean program in SpectroFlo 
+
+Dump waste tank and fill sheath tank with Milli-Q water 
+
+Post Cleaning 
+
+Run a clean tube of water for at least 10 min to clear any debris 
+
+Run at least manual QC to make sure everything is running appropriately 
+
+LSR 
+
+Run Cleaning Agent 
+
+Prep  
+
+Disconnect filter from the sheath line 
+
+Select, and prep, cleaning agent 
+
+Contrad: Pour 5% contrad from stock bottle into tank 
+
+Bleach: Prepare at least 2.5 L of 10% bleach 
+
+Run cleaning agent through system 
+
+Run 1 full tube of selected cleaning agent with stage arm open 
+
+Run on High with stage arm closed for at least 40 minutes 
+
+Run Water without Filter 
+
+Rinse tank at least 3 times with Milli-Q water 
+
+Fill tank at least halfway with water 
+
+Run water 
+
+1 full tube of water with stage arm open 
+
+Run on High with stage arm closed for at least 20 minutes 
+
+Run Water with Filter 
+
+Reconnect filter to sheath line 
+
+Run water 
+
+1 full tube of water with stage arm open 
+
+Run on High with stage arm closed for at least 20 minutes 
+
+Run CST 
+
+Verify everything is running ok 
+
+Canto II 
+
+Run Automated Long Clean 
+
+Cytometer à Cleaning Modes à Long Clean 
+
+Run CST 
+
+Verify everything is running ok 
+
+ 
+
+Aria II  
+
+Bleach Clean (In Progress) 
+
+ When to run 
+
+Quarterly 
+
+After several contamination events 
+
+ Run Bleach  
+
+Disconnect tank from Fluidics Cart 
+
+Remove filter from fluidics line 
+
+Drain filter of sheath 
+
+ Make bleach 
+
+5% Bleach 
+
+≤ 5 L 
+
+Add bleach to tank 
+
+Reconnect tank to Fluidics Cart 
+
+Make sure filter is NOT connected to tank 
+
+ Run Fluidics Start Up 
+
+Use bad 130 µm nozzle 
+
+ Turn on stream 
+
+ Run bleach tube for ≥ 1 hour 
+
+Turn off stream 
+
+Disconnect tank from Fluidics Cart 
+
+Dump bleach in sink 
+
+ Clean Sheath Tank 
+
+Rinse tank with water and dump 
+
+Full Tank Rinse 
+
+Fill tank with water 
+
+Close Tank with Lid 
+
+Roll water around ENTIRE tank 
+
+Dump water 
+
+Repeat ≥ 2 times 
+
+ Run Water 
+
+1st System Rinse 
+
+Add water to tank 
+
+Connect tank to Fluidics Cart 
+
+Filter is NOT attached to fluidics line 
+
+Run Fluidics Start Up 
+
+Turn on stream 
+
+Run water tube ≥ 30 min 
+
+Turn off stream 
+
+Disconnect tank from Fluidics Cart 
+
+2nd System Rinse 
+
+Attach filter to fluidics line 
+
+Repeat steps a iii- a v 
+
+Bleed filter of air during fluidics start up 
+
+Leave system in water if done before break 
+
+Otherwise run a sheath start up 
+
+ 
+
+ 

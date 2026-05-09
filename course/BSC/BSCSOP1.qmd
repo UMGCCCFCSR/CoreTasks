@@ -1,0 +1,53 @@
+CANTO II Start Up, Shut Down and Cleaning Procedures 
+
+ 
+
+Before Your Samples 
+
+Check sheath tank and waste tank level. 
+
+Turn on cytometer (green button on left side), then power on computer. 
+
+Computer login password: BDIS 
+
+Software login: Set with staff. 
+
+If first user of the day: Cytometry> Fluidics Start Up. This will take about 7 minutes.  
+
+Wash with 2% Contrad (detergent), followed by Milli-Q water. 
+
+After Your Samples 
+
+Wash with 2% Contrad for 5 minutes. 
+
+Wash with water for 3 minutes. 
+
+Logout of Diva, without fluidics shutdown. 
+
+Refill sheath tank, if needed. 
+
+Empty waste tank, if needed. 
+
+If you are last person  
+
+Close Diva, choose “Log Out with Fluidics Shutdown.” This process will take about 5 minutes. 
+
+Turn off cytometer (green button on left side) and computer. 
+
+ 
+
+Data Management:  
+
+Name the Experiment:        yyyy-mm-dd_Your Name_any words 
+
+Export as “Experiment” 
+
+Store in D drive, Experiments > PI Folder > Your Folder 
+
+Only leave 3 Experiments under your account.  Delete the rest. 
+
+Back up your data.  Flow lab is not responsible for missing data. 
+
+ 
+
+Emergency Contacts: 

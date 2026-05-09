@@ -1,0 +1,91 @@
+FlowCore Guide: iLabs Billing 
+
+Go to “Schedule Equipment” tab under the FlowCore page 
+
+Graphical user interface, application, website
+
+Description automatically generated 
+
+Click “Review Usage” for the desired instrument 
+
+ 
+
+Make sure date range is appropriate for what you are trying to bill for (should automatically default to 30 before current date) 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Make sure that usage time and payment information is correct for the given time slot 
+
+ 
+
+Determining if an appointment needs to be fixed: 
+
+Payment info is not correct 
+
+If payment is fine:  
+
+Go to step 5 
+
+If payment method is close to expiration:  
+
+Make sure expiration date is after the current appointment 
+
+Go to step 5 
+
+If payment info is incorrect or missing:  
+
+See if the user has a Project ID associated with their account. Ask user to fill out Project information on iLabs 
+
+If no account information found, contact Tom McHugh 
+
+Time should be adjusted 
+
+Adjust the time for the appointment via the calendar 
+
+Sometimes a warning on the payment method will show up if the user has time scheduled past the “open” times of the instrument, to fix: 
+
+Expand the “Pricing Details” section 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Fill in the missing time segments (you may need to check the override box) 
+
+Text
+
+Description automatically generated 
+
+Change the missing billing info for the time slot 
+
+Graphical user interface, text, application, chat or text message
+
+Description automatically generated 
+
+ Click “Save Reservation” 
+
+Billing Special Cases: 
+
+Aria II gets a 1-time set up fee charged for each appointment 
+
+No Charge (click the no charge checkbox): 
+
+Aurora for data analysis only 
+
+There is a Journal Entry for the user/user’s lab 
+
+As determined by staff 
+
+If billing is correct for a given appointment, click the check mark 
+
+ 
+
+Once all slots are reviewed, click “confirm all checked” 
+
+Graphical user interface, text, application, chat or text message
+
+Description automatically generated 
+
+Repeat for all instruments in the core. 

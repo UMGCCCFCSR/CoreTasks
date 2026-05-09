@@ -1,0 +1,139 @@
+FlowCore Guide: General iLabs Functions 
+
+Scheduling 
+
+Making an Appointment from Scratch 
+
+Go to “Schedule Equipment” Tab 
+
+Graphical user interface, text
+
+Description automatically generated with medium confidence 
+
+Go to “View Schedule” for the desired instrument 
+
+ 
+
+Double-click on the desired time on the calendar to open up a new appointment  
+
+Select the correct user for the appointment 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Note: Sometimes you will also have to select the lab to be charged  
+
+Fill out Form 
+
+Scheduled Time 
+
+Pricing Details 
+
+Payment Method *Most Important*  
+
+UMB users will more than likely use a Project ID 
+
+External users typically pay by Credit Card 
+
+“Save Reservation” 
+
+Adjusting and Finalizing Aria II billing 
+
+Adjust Time 
+
+Make sure to adjust the “Logged” time block 
+
+A picture containing text
+
+Description automatically generated 
+
+Make sure to click “Save” to save the change in time 
+
+Add Setup Fee 
+
+Click “Add additional service charge” 
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Adjust value to “1” under “Set Up for ARIA 2” and click the + $50.00  
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Verify fee was added 
+
+ 
+
+Save Reservation 
+
+Marking a User as “Trained” 
+
+Go to “People” tab 
+
+ 
+
+Search for the user 
+
+Graphical user interface, application, Word
+
+Description automatically generated 
+
+Click the equipment permission (microscope) button 
+
+ 
+
+Switch to “Trained” view and check the equipment that the user is now trained on 
+
+A picture containing timeline
+
+Description automatically generated 
+
+Charging Users for Antibodies 
+
+Via Unique Request 
+
+Click on “Request Services” Tab 
+
+A picture containing diagram
+
+Description automatically generated 
+
+Find “Antibodies” section on Service List and Click “Initiate Request” 
+
+A picture containing shape
+
+Description automatically generated 
+
+Select correct customer and lab and click “Proceed” 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Add in value of antibody charge and label what charge is for 
+
+Graphical user interface, application
+
+Description automatically generated 
+
+Change “Billing Status” to “Ready to Bill” and “Work Status” to “Completed” 
+
+Graphical user interface, text, application
+
+Description automatically generated 
+
+Click “Submit Request to Researcher” 
+
+A picture containing graphical user interface
+
+Description automatically generated 
+
+Via Adding on to User Booking 
+
+Same as adding on Set Up charge for Aria II but select “Antibodies” instead and add appropriate value 
+
+Make note in notes section that extra charge is for antibodies 

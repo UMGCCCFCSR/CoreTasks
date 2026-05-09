@@ -1,0 +1,110 @@
+---
+title: "Untitled"
+format: html
+---
+
+FlowCore Guide: Miscellaneous 
+
+Washing Lab Glassware 
+
+Put Items in Washer 
+
+Place bottles on rack 
+
+Make sure to put caps in a cage on the rack 
+
+Turn on Washer (via On/Off switch) 
+
+Select Cleaning Program 
+
+Usually run program 4 “Wash with Short Dry” 
+
+Selecting “f4” will take you to program selection screen 
+
+Run Wash 
+
+Click start (F4)  on selection screen 
+
+Press Start button 
+
+Autoclaving Items 
+
+Tape caps/tops of items to be autoclaved with fresh autoclave tape 
+
+Place items in the autoclave 
+
+Make sure any caps are loosely on bottles 
+
+Run correct cycle 
+
+Bottles with liquid à Liquid Cycle 
+
+No liquid in containers à Gravity Cycle 
+
+Remove items from autoclave 
+
+Make sure the chamber pressure is 0 
+
+Make sure lines on autoclaved tape have changed from beige to black 
+
+If lines have not changed, the autoclave did not get hot enough and the items are NOT sterile 
+
+Tell Kathy (or someone in the office) about the autoclave so she can have it serviced 
+
+Leave caps slightly loose until bottle cools down 
+
+Biohazard Trash 
+
+Requesting Bags 
+
+Go to EHS Website 
+
+Click on “Hazardous Material Management 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Click on link to fill out special medical waste removal form 
+
+Graphical user interface
+
+Description automatically generated with medium confidence 
+
+Fill out the form with all required information 
+
+Do not fill out any information for the drop down “type” menus 
+
+Instead, fill out a note in the “Other” category requesting a box of biohazard bags 
+
+Graphical user interface, text, application, email
+
+Description automatically generated 
+
+Submit Request 
+
+Voicemail 
+
+Password: Flow (3569) 
+
+Service Contracts 
+
+Located in drawer on bottom right of the desk by the hood 
+
+Use for easy way to look up phone number and the instrument serial number needed for a service call 
+
+Equipment List 
+
+Copy is on staff drive 
+
+Update as equipment is added to, or removed from, core 
+
+MACSQuant Running Buffer 
+
+Dilute from 16X buffer 
+
+Add H2O first, then add buffer concentrate 
+
+Make up to 4 bottles at a time 
+
+Note: Bottles are 1.5 L NOT 1 L 

@@ -1,0 +1,96 @@
+---
+title: "Untitled"
+format: html
+---
+
+FlowCore Guide: Lab Tasks 
+
+Daily 
+
+QC (when instruments are being used) 
+
+Aria II 
+
+Aurora 
+
+Aurora UV 
+
+Canto II 
+
+LSR II 
+
+General Lab Stock Refill 
+
+Solution Bottles 
+
+Bulk Tubes 
+
+Gloves 
+
+iLabs Schedule 
+
+Answer FlowCore e-mails 
+
+Weekly 
+
+QC (if not used for analysis during the week) 
+
+MACSQuant 10 
+
+FlowSight 
+
+Biohazard Trash Removal 
+
+Eye Wash 
+
+Sorting Room 
+
+Sink by Pathology 
+
+Autoclave Room 
+
+Billing 
+
+Lab Consumables Stock Check 
+
+Order materials if necessary 
+
+Monthly 
+
+Data Back Up 
+
+Aria II (if not using external hard drive to transfer files) 
+
+Canto II 
+
+FlowSight 
+
+LSR II 
+
+Long Cleans 
+
+Aurora 
+
+Aurora UV 
+
+Canto II 
+
+LSR II 
+
+Every 6 Months 
+
+Instrument Preventative Maintenance 
+
+All Instruments 
+
+Should be contacted by the respective service contract provider  
+
+Can determine the next date of PM by looking at the date written on the sheath filter 
+
+Hood Recertification (Kathy handles this) 
+
+Yearly 
+
+Replace Milli-Q Filters and Lamp 
+
+Flowjo serial number replacement on computers 

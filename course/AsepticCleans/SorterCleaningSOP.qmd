@@ -1,0 +1,78 @@
+---
+title: "Sorting Cleaning SOP"
+format: html
+---
+
+Sorter Cleaning Procedures 
+
+ 
+
+Weekly Ethanol Shutdown 
+
+Leave sheath filter on 
+
+50% ethanol 1/3 tank, make sure all surface inside getting contact 
+
+130nm nozzle 
+
+Start up (bleed filter), backflush > 20 min 
+
+Clean flow cell with water, turn off system.  No need to do fluidic shut down,  
+
+Start Up 
+
+Rinse inside of tank again before emptying tank. 
+
+Rinse with water 3 times, close lid, make sure it rinses whole surface 
+
+Half tank water, 130 nozzle, start up (blead sheath filter), water and bleach wash for 20 min. 
+
+PBS in tank, proper nozzle, start up (bleed filter), wash > 20 min, ready 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Monthly Bleach Clean: 
+
+Bleach clean takes at least 2 h.  block the calendar or find an empty afternoon, flexible, not limited to Friday. 
+
+Autoclave 10L and 1L sheath bottle 
+
+Bypass sheath filter 
+
+5% house bleach half tank, make sure all surface inside getting contact 
+
+130nm nozzle 
+
+Start up, backflush for 1-3 h 
+
+Rinse inside of tank again before emptying. 
+
+Rinse with water 3 times, close lid, make sure it rinses whole surface 
+
+Half tank water, start up, backflush for 10 min, bleach sample for 20-50 min, water 3 min.  
+
+Turn off, reconnect sheath filter 
+
+Start Up 
+
+PBS in tank, start up (bleed sheath filter), wash with water, bleach, water, total at least 30 min. 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------- 
+
+Sterile Test 
+
+Each Thursday, before the sort, take samples from  
+
+  1. tank 
+
+  2. test sort (no sample running) 
+
+  3. left over sample from 400 ul water run for 3 min.   
+
+No bleach run before these samples.   
+
+Other days if there is a sterile sort, take test sort sample while running a water tube.  Test users sample buffer.  
+
+Add 600 ul LB to 400 ul sample 
+
+Culture 3 days, add same volume of 10% bleach, mix and stay 1 h, discard to sink in main lab, rinse. 

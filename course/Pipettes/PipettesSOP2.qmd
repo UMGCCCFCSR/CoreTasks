@@ -1,0 +1,197 @@
+SOP Pipettes 
+
+ 
+
+Purpose:  Procedure of operation and calibration of micropipettes in UMGCCC FCSS. 
+
+Scope:  It is applicable for the UMGCCC FCSS Facility. 
+
+Responsibility 
+
+Principal investigator:  The Principal Investigator, PI, is responsible for ensuring personnel under their supervision are trained on the safe and proper use of the micro pipettes, and correct procedure are followed. 
+
+Designated person:  The PI may designate a member of the lab to oversee the correct operation and maintenance of the micro pipettes. 
+
+Direct all users in proper usage of the micropipettes and keep them in good working condition.  All users are to report any defects, breakdowns or quality control issues to the faciality PI and/or the core staff. 
+
+Procedure 
+
+Volume Setting:  The volume can be changed continuously by rotating the setting of the ring. 
+
+Pipette Tips:   The pipette can be used only when a pipette tip is attached into which the liquid is aspirated. 
+
+Aspirating Liquid 
+
+The liquid, which is to be aspirated, is taken from a stable vessel. 
+
+Attach the tips to the pipette firmly 
+
+Immerse the pipette tips approximately 3 mm to 5 mm into the liquid or into a suitable depth into the liquid. 
+
+Allow the control button to slide back slowly. 
+
+Pull the micropipette tips out of the liquid slowly. 
+
+Dispensing Liquid 
+
+Hold the tips at an angle against the inside wall of the tube/well/bottle/suitable vessel. 
+
+Press down the control button slowly to the first stop and wait until the liquid stops flowing. 
+
+Press down the control button to the second stroke until it is completely empty. 
+
+Hold down the control button and pull the tips up the inner wall of the tube.€ 
+
+Allow the control button to slide back slowly. 
+
+Dispense the tips into the appropriate biohazard container. 
+
+Calibration:  Calibration is down once a year by 
+
+ In between yearly calibration by ___________  manual calibration can be done if pipette does not seem to be working properly. 
+
+Different set of volumes should be taken, and linearity should be performed. 
+
+Attach micropipette tips to micropipette.  The desired volume is set, and water shall be aspirated.  Dispensed into dry beaker and weighed repeated 10 times.  The mean of the weights is converted into uL and using the following formula: 
+
+Volume = Weight of water sample/Density of Water (at 250C) 
+
+The percentage variation can be calculated by using the following formula: 
+
+ 
+
+Percentage Variation = Actual Weight – observed weight X 100/ Actual Weight 
+
+ 
+
+Perform the calibration by using the set volumes. 
+
+ 
+
+ 
+
+Handling, Care and Maintenance 
+
+Do not lay down the pipette when a filled pipette tip is attached. 
+
+Avoid difference in temperature between pipettes and pipette tips as well as the liquid.  As this may lead to incorrect volumes being dispensed. 
+
+Do not allow any liquid to enter the pipette. 
+
+Do not clean the pipette with acetone or aggressive solutions.  UMGCCC FCSS Staff will wipe down pipettes twice a day with 65 to 70% alcohol.   
+
+References: 
+
+Pipet Lite XLS+ Manuel Pipettes: 
+
+https://www.pipettesupplies.com/assets/1/7/Pipet-Lite_XLS__User_Manual_2014_(Rainin)_Rev_G_(2)1.pdf 
+
+ 
+
+Pipetman Classic User’s Guide: 
+
+https://www.gilson.com/pub/static/frontend/Gilson/customtheme/en_US/images/docs/PIPETMANCLASSIC_UG_LT801120-F.pdf 
+
+ 
+
+Written by:		Karen F. Underwood, MS, Research Lead Specialist 
+
+Adapted by:		Xiaoxuan Fan, Ph.D., Directory 
+
+Effective date:	 
+
+ 
+
+Approved by:	______________________________		___________________ 
+
+Xiaoxuan Fan, Ph.D., Director			Date 
+
+ 
+
+Reviewed by:	_______________________________		____________________ 
+
+Quality Assurance						Date 
+
+ 
+
+_______________________________		____________________ 
+
+Prepare of Document					Date 
+
+ 
+
+ 
+
+MODIFICATIONS AFTER ORIGINAL IMPLEMENTATION 
+
+ 
+
+Date: 
+
+Description of Modification: 
+
+Approved by: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 

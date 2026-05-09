@@ -1,0 +1,33 @@
+rotocol for Disinfection of Cell Culture and Tissue Culture 
+
+ 
+
+ 
+
+In waste container for cytometers collect a volume of liquid that fills ¾ of the collector container.  Add enough commercial bleach to create a 15% solution (1:15 v/v)).    It is imperative that you add the disinfectant once the flask is filled with wastewater due to the shelf life/stability of the hydroxide ion.    The concentration of available chlorine diminishes by approximately 50% after 30 days of storage.  Undiluted commercial bleach can be stored for 6 months at room temperature.  After 6 months, bleach will degrade at a rate of 20% each year.   
+
+ 
+
+Wear the appropriate gloves, lab coat and eye protection whenever using chemical disinfectants. 
+
+ 
+
+A minimum contact time of 30 minutes is necessary to ensure its efficacy.	 
+
+ 
+
+ 
+
+In order to avoid harm caused by the inhalation of fumes, the best practice is to place the waste container or flask, in the fume hood while being filled and throughout the contact period.    
+
+ 
+
+ 
+
+Reference: 
+
+ 
+
+Fundamental Techniques in Cell Culture Laboratory Handbook-2nd Edition 
+
+ 
