@@ -27,3 +27,12 @@ Graphical user interface, application
 Description automatically generated 
 
 Submit form  
+
+Flow Core User Badge Access
+
+Log into the Building Access System
+Go to Forms 🡪 Building Access Form
+Select “Completing access request for myself”
+Fill out Form
+
+Submit form 
